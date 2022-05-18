@@ -3,7 +3,7 @@ package org.phone;
 public class PhoneInfo {
 	public void phoneName()
 	{
-		System.out.println("phone name is mi");
+		System.out.println("phone name is asus");
 	}
 	public void phoneMieiNum()
 	{
