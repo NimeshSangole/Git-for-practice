@@ -11,7 +11,7 @@ public class PhoneInfo {
 	}
 	public void camera()
 	{
-		System.out.println("camera is 48 mega pixel");
+		System.out.println("camera is 32 mega pixel");
 	}
 	public void storage()
 	{
